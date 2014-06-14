@@ -13,7 +13,7 @@ Why is this useful?
 
 Though, WebP allows for superior (to JPEG) lossy compression with an alpha channel, it is not a viable image format in the modern browser landscape. Once WebP takes over, this tool will be obsolete.
 
-This tool will allow you to perform lossy compression on an image with an alpha channel in an image format supported by all modern browsers. Anecdotally, this results in a JPEG 10-20% of the original PNG file size with very little discernible artifacts.
+This tool will allow you to perform lossy compression on an image with an alpha channel in an image format supported by all modern browsers. Anecdotally, this results in a JPEG 20-50% of the original PNG file size with very little discernible artifacts.
 
 
 How does it work?
